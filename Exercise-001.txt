@@ -14,7 +14,7 @@ Exercise 001
 
 
 
-public class Exercise {
+public class Exercise_001 {
     // TODO: Implement the printMessage method
     public static void printMessage() {
         // Your code here
