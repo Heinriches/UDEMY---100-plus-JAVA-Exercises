@@ -1,7 +1,7 @@
 Exercise 006
 
 * Instructions:
-    Complete the reverseString method in the Exercise class.
+    Complete the 'reverseString' method in the 'Exercise_006' class.
 
 * The method should:
   - Take a string as input.
