@@ -1,0 +1,34 @@
+Exercise 008
+
+* Instructions:
+    Complete the 'reverseString' method in the 'Exercise_008' class.
+
+* The method should:
+    - Take a single string as input.
+    - Return the reversed version of the string.
+
+* Examples:
+    Input: "hello"
+    Output: "olleh"
+
+    Input: "Java"
+    Output: "avaJ"
+
+    Input: "racecar"
+    Output: "racecar"
+
+----------------------------------------------------------------------
+* Objectives:
+    Practice string manipulation and learn how to reverse a string 
+    using loops.
+----------------------------------------------------------------------
+
+
+
+public class Exercise_008 {
+    // TODO: Implement the reverseString method
+    public static String reverseString(String input) {
+        // Your code here
+        return ""; // Placeholder return value
+    }
+}
