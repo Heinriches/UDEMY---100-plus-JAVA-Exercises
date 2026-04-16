@@ -1,0 +1,31 @@
+Exercise 007
+
+* Instructions:
+    Complete the 'sumOfDigits' method in the 'Exercise_007' class.
+
+* The method should:
+  - Take an integer number as input.
+  - Return the sum of all its digits.
+
+* Example:
+    Input: 123
+    Output: 6 (because 1 + 2 + 3 = 6)
+
+    Input: 9876
+    Output: 30 (because 9 + 8 + 7 + 6 = 30)
+
+----------------------------------------------------------
+* Objectives:
+    Understand how to extract digits from a number and 
+    perform operations on them.
+----------------------------------------------------------
+
+
+
+public class Exercise_007 {
+    // TODO: Implement the sumOfDigits method
+    public static int sumOfDigits(int number) {
+        // Your code here
+        return 0; // Placeholder return value
+    }
+}
