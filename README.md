@@ -1,2 +1,2 @@
 # (UDEMY) 100+ JAVA Exercises 
-# (Simple, Intermediate & Complex)
+# (Simple, Intermediate & Complex Exercises)
