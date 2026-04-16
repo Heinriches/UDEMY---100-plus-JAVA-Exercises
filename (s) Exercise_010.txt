@@ -1,0 +1,42 @@
+Exercise 010
+
+* Instructions:
+    Complete the 'Car' class in the 'Exercise_010' class file.
+
+* The class should:
+    - Have a static field totalCars (int) to keep track of the total number of Car objects created.
+    - Have an instance field model (String) to store the model of a car.
+    - Provide a static method getTotalCars that returns the value of totalCars.
+    - Provide an instance method getModel that returns the model of the car.
+    - Update totalCars in the constructor whenever a new Car object is created.
+
+Examples:
+    Car car1 = new Car("Tesla Model S");
+    Car car2 = new Car("Ford Mustang");
+     
+    System.out.println(car1.getModel());       // Output: Tesla Model S
+    System.out.println(Car.getTotalCars());    // Output: 2
+
+
+--------------------------------------------------------------------------------
+* Objectives:
+    The primary objective of this exercise is to understand the difference between Class-level (Static) 
+    and Instance-level (Object) members in Java.
+
+    It tests your ability to manage data that belongs to the "blueprints" of a class versus data 
+    that belongs to an individual "house" built from those blueprints.
+--------------------------------------------------------------------------------
+
+
+
+public class Car {
+    // TODO: Add a static field for totalCars
+
+    // TODO: Add an instance field for model
+
+    // TODO: Add a constructor that updates totalCars
+
+    // TODO: Add a static method getTotalCars
+
+    // TODO: Add an instance method getModel
+}
