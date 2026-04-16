@@ -1,0 +1,23 @@
+Exercise 006
+
+* Instructions:
+    Complete the reverseString method in the Exercise class.
+
+* The method should:
+  - Take a string as input.
+  - Return the reversed version of the string.
+
+-------------------------------------------------------------
+* Objectives:
+    Understand how to manipulate strings and work with loops 
+    to reverse a string in Java.
+-------------------------------------------------------------
+
+
+public class Exercise_006 {
+    // TODO: Implement the reverseString method
+    public static String reverseString(String input) {
+        // Your code here
+        return ""; // Placeholder return value
+    }
+}
