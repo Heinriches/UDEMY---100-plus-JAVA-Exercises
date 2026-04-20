@@ -1,0 +1,22 @@
+Exercise 001
+
+* Instructions:
+  Complete the 'printMessage' method in the 'Exercise_001' class.
+
+  The method should:
+  Print the message "Hello, World!" to the console.
+
+------------------------------------------------------------------------------
+* Objectives:
+  Understand the structure of a basic Java program,
+  and how to use System.out.println to print output to the console.
+------------------------------------------------------------------------------
+
+
+
+public class Exercise_001 {
+    // TODO: Implement the printMessage method
+    public static void printMessage() {
+        // Your code here
+    }
+}

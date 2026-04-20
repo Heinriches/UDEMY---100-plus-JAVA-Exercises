@@ -1,0 +1,41 @@
+Exercise 009
+
+* Instructions:
+    Complete the 'countVowelsAndConsonants' method in the 'Exercise_009' class.
+
+* The method should:
+    - Take a single string as input.
+    - Return an array of two integers:
+      1) The first integer represents the count of vowels (a, e, i, o, u, case-insensitive).
+      2) The second integer represents the count of consonants (all alphabetic characters that are not vowels).
+
+* Examples:
+    Input: "hello"
+    Output: {2, 3}
+    (2 vowels: e, o; 3 consonants: h, l, l)
+
+    Input: "JAVA"
+    Output: {2, 2}
+    (2 vowels: A, A; 2 consonants: J, V)
+
+    Input: "123abc!"
+    Output: {1, 2}
+    (1 vowel: a; 2 consonants: b, c)
+
+
+--------------------------------------------------------------------------------
+* Objectives:
+    The objective of this exercise is to assess your ability to process strings and 
+    apply conditional logic in Java. It moves beyond simple printing and asks you to 
+    analyze data within a sequence.
+--------------------------------------------------------------------------------
+
+
+
+public class Exercise_009 {
+    // TODO: Implement the countVowelsAndConsonants method
+    public static int[] countVowelsAndConsonants(String input) {
+        // Your code here
+        return new int[] {0, 0}; // Placeholder return value
+    }
+}

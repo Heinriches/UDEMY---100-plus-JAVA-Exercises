@@ -1,0 +1,24 @@
+Exercise 002
+
+* Instructions:
+  Complete the 'addNumbers' method in the 'Exercise_002' class.
+
+  The method should:
+  - Take two integers as input parameters.
+  - Return the sum of the two integers.
+
+--------------------------------------------------------------
+* Objectives:
+  Learn how to create methods that accept parameters, perform simple
+  arithmetic operations, and return results.
+--------------------------------------------------------------
+
+
+
+public class Exercise_002 {
+    // TODO: Implement the addNumbers method
+    public static int addNumbers(int num1, int num2) {
+        // Your code here
+        return 0; // Placeholder return value
+    }
+}

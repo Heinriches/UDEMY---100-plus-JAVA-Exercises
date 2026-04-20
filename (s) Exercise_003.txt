@@ -1,0 +1,24 @@
+Exercise 003
+
+* Instructions:
+  Complete the 'checkEvenOdd' method in the 'Exercise_003' class.
+
+  The method should:
+  - Take an integer as input.
+  - Print "Even" if the number is even.
+  - Print "Odd" if the number is odd.
+
+-------------------------------------------------------------------
+* Objetives:
+  Understand how to use conditional statements (if-else) to make decisions
+  in a Java program.
+-------------------------------------------------------------------
+
+
+
+public class Exercise_003 {
+    // TODO: Implement the checkEvenOdd method
+    public static void checkEvenOdd(int number) {
+        // Your code here
+    }
+}

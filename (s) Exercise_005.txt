@@ -1,0 +1,24 @@
+Exercise 005
+
+*Instructions:
+  Complete the 'findMax' method in the 'Exercise_005' class.
+
+  The method should:
+  - Take an array of integers as input.
+  - Return the largest integer in the array.
+
+-----------------------------------------------------
+* Objectives:
+  Learn how to work with arrays and iterate through them 
+  to find a specific value, such as the maximum number.
+-----------------------------------------------------
+
+
+
+public class Exercise_005 {
+    // TODO: Implement the findMax method
+    public static int findMax(int[] numbers) {
+        // Your code here
+        return 0; // Placeholder return value
+    }
+}
